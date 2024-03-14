@@ -32,6 +32,9 @@
 
 <!-- GithubStats -->
 ![DevPedroDev GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedrodev&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrodev&layout=compact&theme=gruvbox)](https://github.com/devpedrodev/github-readme-stats)
+
+
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -71,7 +74,6 @@
 * 📧 E-mail: pedrowallacemadeira@gmail.com
 * 🌐 Portfólio: Em produção...
 
-  ![Snake animation](https://github.com/devpedrodev/devpedrodev/blob/output/github-contribution-grid-snak.svg)
   
   
 
