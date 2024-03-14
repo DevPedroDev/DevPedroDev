@@ -70,6 +70,8 @@
 
 * 📧 E-mail: pedrowallacemadeira@gmail.com
 * 🌐 Portfólio: Em produção...
+
+  ![Snake animation](https://github.com/devpedrodev/devpedrodev/blob/output/github-contribution-grid-snak.svg)
   
   
 
