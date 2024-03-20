@@ -17,7 +17,8 @@
 <h2>👨‍💻Sobre mim</h2>
 
   - 💬 Olá! Sou o Pedro Wallace, um entusiasta do desenvolvimento web com 20 anos de idade, apaixonado por criar experiências incríveis na web. Atualmente, estou focado no desenvolvimento de sites usando uma variedade de tecnologias, incluindo HTML, CSS, Bootstrap, JavaScript, PYTHON e PHP.
-
+  - 
+* 🕵🏼 Formado em Análise e Desenvolvimento de Sistemas
 * ⚡ 🖥️ Desenvolvedor Web Autodidata
 * 🚀 Experiente em HTML, CSS, Bootstrap, JavaScript, PYTHON e PHP
 * 🌱 Sempre buscando aprender e aprimorar minhas habilidades
